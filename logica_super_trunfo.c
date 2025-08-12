@@ -3,8 +3,8 @@
 int main() {
     int opcao1, opcao2;
     int resultadoAtributo1 = 0, resultadoAtributo2 = 0;
-    float valorCarta1_A1 = 0, valorCarta2_A1 = 0;
-    float valorCarta1_A2 = 0, valorCarta2_A2 = 0;
+    float valorCarta1_A1 = 0, valorCarta2_A1 = 0; // essa variável representa o valor do atributo escolhido para a Carta 1
+    float valorCarta1_A2 = 0, valorCarta2_A2 = 0; // essa variável representa o valor do atributo escolhido para a Carta 1
     
     // Variáveis da Carta 1
     char estado1[50] = "ES", codigo1[5] = "A01", cidade1[50] = "Vitória";
